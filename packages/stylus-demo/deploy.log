@@ -1,0 +1,9 @@
+declare -x HOME="/root"
+declare -x HOSTNAME="3fd3b48c9d58"
+declare -x OLDPWD="/app"
+declare -x PATH="/root/.foundry/bin:/root/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+declare -x PWD="/app/packages/stylus-demo"
+declare -x SHLVL="1"
+declare -x TERM="xterm"
+Error: PRIVATE_KEY environment variable is not set.
+Please set your private key: export PRIVATE_KEY=your_private_key_here
